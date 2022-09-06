@@ -3,7 +3,7 @@
 
 - 🔭 Começando projetos...
 - ⚡ Estudante de Análise e Desenvolvimento de Sistemas;
-- 📫 Contate-me por email: 
+- 📫 Contate-me por email: mar.quesrecupera@gmail.com
 
 <div align="center">
   <a href="https://github.com/AnaLimaBR">
