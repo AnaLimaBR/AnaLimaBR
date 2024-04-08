@@ -1,9 +1,9 @@
 
 ### Bem vinde!
 
-- 🔭 Começando projetos...
+- 🔭 Desenvolvedora Fullstack Junior | Data Science | Machine Learning | WebApps | Microsoft Power Platform Developer...
 - ⚡ Estudante de Análise e Desenvolvimento de Sistemas;
-- 📫 Contate-me por email: mar.quesrecupera@gmail.com
+- 📫 Contate-me por email: anatech4solutions@gmail.com
 
 <div align="center">
   <a href="https://github.com/AnaLimaBR">
