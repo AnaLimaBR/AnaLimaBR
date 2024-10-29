@@ -1,8 +1,8 @@
 
 ### Bem vinde!
 
-- 🔭 Desenvolvedora Fullstack Junior | Data Science | Machine Learning | WebApps | Microsoft Power Platform Developer...
-- ⚡ Estudante de Análise e Desenvolvimento de Sistemas;
+- 🔭 Desenvolvedora Fullstack Pleno | Arquitetura Web e de Servidores | Websites | Low-Code | Microsoft Power Platform Developer...
+- ⚡ Tecnológa em Análise e Desenvolvimento de Sistemas;
 - 📫 Contate-me por email: anatech4solutions@gmail.com
 
 <div align="center">
